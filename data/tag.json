@@ -1,4 +1,22 @@
 {
+  "生产环境": {
+    "createdAt": "2022-04-24T16:54:10.906Z",
+    "color": "#f50000",
+    "desc": "生产环境",
+    "isInner": false
+  },
+  "预发环境": {
+    "createdAt": "2022-04-24T16:54:01.024Z",
+    "color": "#f50000",
+    "desc": "预发环境",
+    "isInner": false
+  },
+  "测试环境": {
+    "createdAt": "2022-04-24T16:53:45.244Z",
+    "color": "#f50000",
+    "desc": "测试环境",
+    "isInner": false
+  },
   "中文": {
     "color": "#2db7f5",
     "createdAt": "2018-01-25T07:56:31.372Z",
